@@ -65,7 +65,6 @@ train:
  - Zero_FoodWasteAndRecyclable_2/images/train/
  - CigaretteButtsV2_0/images/train/
 
-
 val:
  - Zero_FoodWasteAndRecyclable_11/images/val/
  - Zero_FoodWasteAndRecyclable_8/images/val/
@@ -122,7 +121,6 @@ val:
  - Sun_FoodWaste_2/images/val/
  - Zero_FoodWasteAndRecyclable_2/images/val/
  - CigaretteButtsV2_0/images/val/
-
 
 test:  # test images (optional)
 
