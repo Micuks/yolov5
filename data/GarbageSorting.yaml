@@ -56,6 +56,7 @@ train:
  - Sun_RecyclableWaste_V2_5/images/train/
  - FoodWasteV1_0/images/train/
  - Diapers_0/images/train/
+ - FruitPeelV1_0/images/train/
  - Sun_Rucyc_part2/images/train/
  - Sun_Recyc_part3/images/train/
  - Pot_0/images/train/
@@ -63,7 +64,6 @@ train:
  - Sun_FoodWaste_2/images/train/
  - Zero_FoodWasteAndRecyclable_2/images/train/
  - CigaretteButtsV2_0/images/train/
-
 
 val: 
  - Zero_FoodWasteAndRecyclable_11/images/val/
@@ -113,6 +113,7 @@ val:
  - Sun_RecyclableWaste_V2_5/images/val/
  - FoodWasteV1_0/images/val/
  - Diapers_0/images/val/
+ - FruitPeelV1_0/images/val/
  - Sun_Rucyc_part2/images/val/
  - Sun_Recyc_part3/images/val/
  - Pot_0/images/val/
@@ -120,7 +121,6 @@ val:
  - Sun_FoodWaste_2/images/val/
  - Zero_FoodWasteAndRecyclable_2/images/val/
  - CigaretteButtsV2_0/images/val/
-
 
 test:  # test images (optional)
 
