@@ -8,7 +8,7 @@
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 path: /kaggle/input/garbagesortingdataset/
-train: 
+train:
  - Zero_FoodWasteAndRecyclable_11/images/train/
  - Zero_FoodWasteAndRecyclable_8/images/train/
  - Sun_WineBottles/images/train/
@@ -54,8 +54,18 @@ train:
  - Sun_Recyc_part1/images/train/
  - Sun_DrinkBottle/images/train/
  - Sun_RecyclableWaste_V2_5/images/train/
+ - FoodWasteV1_0/images/train/
+ - Diapers_0/images/train/
+ - FruitPeelV1_0/images/train/
+ - Sun_Rucyc_part2/images/train/
+ - Sun_Recyc_part3/images/train/
+ - Pot_0/images/train/
+ - Zero_FoodWasteAndRecyclable_7/images/train/
+ - Sun_FoodWaste_2/images/train/
+ - Zero_FoodWasteAndRecyclable_2/images/train/
+ - CigaretteButtsV2_0/images/train/
 
-val: 
+val:
  - Zero_FoodWasteAndRecyclable_11/images/val/
  - Zero_FoodWasteAndRecyclable_8/images/val/
  - Sun_WineBottles/images/val/
@@ -101,6 +111,16 @@ val:
  - Sun_Recyc_part1/images/val/
  - Sun_DrinkBottle/images/val/
  - Sun_RecyclableWaste_V2_5/images/val/
+ - FoodWasteV1_0/images/val/
+ - Diapers_0/images/val/
+ - FruitPeelV1_0/images/val/
+ - Sun_Rucyc_part2/images/val/
+ - Sun_Recyc_part3/images/val/
+ - Pot_0/images/val/
+ - Zero_FoodWasteAndRecyclable_7/images/val/
+ - Sun_FoodWaste_2/images/val/
+ - Zero_FoodWasteAndRecyclable_2/images/val/
+ - CigaretteButtsV2_0/images/val/
 
 
 test:  # test images (optional)
