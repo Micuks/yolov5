@@ -99,7 +99,7 @@ val:
  - MetalFoodCans_0/images/val/
  - FoodWasteV1_2/images/val/
  - Sun_RecyclableWaste_V2_4/images/val/
- - Sun_RecyclableWaste_V2_9/images/val/
+ # - Sun_RecyclableWaste_V2_9/images/val/
  - Sun_RecyclableWaste_V2_7/images/val/
  - Sun_FishBones/images/val/
  - tableware_toiletPaper_shells/images/val/
